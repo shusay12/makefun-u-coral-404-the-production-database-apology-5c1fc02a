@@ -1,0 +1,8 @@
+# Kit (unpacked competition bundle; not part of the entry)
+u-coral-404-the-production-database-apology-5c1fc02a-kit/
+*.tar.gz
+# Build artefacts
+__pycache__/
+*.pyc
+# Local notes, not part of the entry
+BUILD-REPORT.md
